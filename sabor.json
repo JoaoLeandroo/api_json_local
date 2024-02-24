@@ -1,0 +1,116 @@
+{
+  "categories": [
+    {
+      "burguers": [
+        {
+          "name": "Bomb Cheddar",
+          "price": 35.9,
+          "urlImg": "https://i.im.ge/2024/02/25/gYK3TM.bomba-cheddar.jpg",
+          "ingredients": ["3 Carnes bovina", "Pão integral", "Queijo cheddar"]
+        },
+        {
+          "name": "Burguer dos Deuses",
+          "price": 28.0,
+          "urlImg": "https://i.im.ge/2024/02/25/gYkQIy.burguer-dos-deuses.jpg",
+          "ingredients": ["Carne bovina", "Pão 3 queijos", "Queijo mussarela"]
+        },
+        {
+          "name": "Extra Bomb",
+          "price": 45.5,
+          "urlImg": "https://i.im.ge/2024/02/25/gYki9P.burguer-extra-bomb.jpg",
+          "ingredients": [
+            "2 Carnes Bovina",
+            "Pão brioche",
+            "Queijo cheddar",
+            "Tomate",
+            "Alface",
+            "Batata palha"
+          ]
+        },
+        {
+          "name": "Delicia Crocante",
+          "price": 25.0,
+          "urlImg": "https://i.im.ge/2024/02/25/gYv510.delicia-crocante.jpg",
+          "ingredients": [
+            "Carne bovina",
+            "Pão 3 queijos",
+            "Tomate",
+            "Alface",
+            "Queijo Cheddar"
+          ]
+        },
+        {
+          "name": "Especial da Casa",
+          "price": 33.9,
+          "urlImg": "https://i.im.ge/2024/02/25/gYvRG8.especial-da-casa.jpg",
+          "ingredients": [
+            "Carne bovina",
+            "Pão integral",
+            "Ceboloas frita",
+            "Molho especial"
+          ]
+        },
+        {
+          "name": "Triplo Chikken Burguer",
+          "price": 48.5,
+          "urlImg": "https://i.im.ge/2024/02/25/gYJu0L.extra-triplo-burguer-chiken.jpg",
+          "ingredients": [
+            "3 empanados de frango",
+            "Pão 3 queijos",
+            "Tomate",
+            "Alface",
+            "Cebola",
+            "Picles",
+            "Queijo mussarela"
+          ]
+        },
+        {
+          "name": "Loucura do Sabor",
+          "price": 28.99,
+          "urlImg": "https://i.im.ge/2024/02/25/gYJ0D8.loucura-do-sabor.jpg",
+          "ingredients": [
+            "Carne Bovina",
+            "Pão de brioche",
+            "alface",
+            "tomate",
+            "molho especial"
+          ]
+        },
+        {
+          "name": "Paixão Do Baccon",
+          "price": 42.9,
+          "urlImg": "https://i.im.ge/2024/02/25/gYJ3Jm.paixao-do-baccon.jpg",
+          "ingredients": [
+            "Carne bovina",
+            "Pão brioche",
+            "Queijo coalho",
+            "Baccon"
+          ]
+        },
+        {
+          "name": "Simple Burguer",
+          "price": 21.99,
+          "urlImg": "https://i.im.ge/2024/02/25/gYJJfz.simple-burguer.jpg",
+          "ingredients": ["Carne bovina", "Pão 3 queijos", "Queijo Cheddar"]
+        },
+        {
+          "name": "X-Loucura",
+          "price": 35.7,
+          "urlImg": "https://i.im.ge/2024/02/25/gYnlqM.x-loucura.jpg",
+          "ingredients": [
+            "2 Carnes Bovina",
+            "Pão integral",
+            "tomate",
+            "cebola",
+            "alface",
+            "Queijo mussarela",
+            "molho especial"
+          ]
+        }
+      ],
+      "snacks": [],
+      "candy": [],
+      "drinks": []
+    }
+  ]
+}
